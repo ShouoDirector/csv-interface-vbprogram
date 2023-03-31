@@ -1,27 +1,50 @@
-1. Upload CSV file from local computer
+User Manual
 
-2. Backup CSV file from data grid to local computer
+Uploading CSV File from Local Computer:
+a. Click on the "Upload CSV" button.
+b. A file explorer window will open, navigate to the CSV file you want to upload and select it.
+c. Click "Open" and the CSV file will be uploaded and displayed in the Data Grid View.
 
-3. Delete csv file on local computer
+Backup CSV File from Data Grid to Local Computer:
+a. Select the rows and columns that you want to backup in the Data Grid View.
+b. Click on the "Backup CSV" button.
+c. A file explorer window will open, navigate to the location where you want to save the backup file and give it a name.
+d. Click "Save" and the CSV file will be saved as a backup to your local computer.
 
-4. Clear contents in Data Grid View
+Deleting CSV File on Local Computer:
+a. Click on the "Delete CSV" button.
+b. A file explorer window will open, navigate to the CSV file you want to delete and select it.
+c. Click "Open" and the CSV file will be deleted from your local computer.
 
-5. Go to cell, by specific column and row
+Clear Contents in Data Grid View:
+a. Click on the "Clear Data" button.
+b. All data in the Data Grid View will be cleared.
 
-6. The location of focused cell is determined
+Go to Cell, by Specific Column and Row:
+a. Click on the "Go to Cell" button.
+b. Enter the column and row numbers in the provided fields.
+c. Click "Go" and the Data Grid View will scroll to the specified cell.
 
-7. Remove specified row
+Determining the Location of Focused Cell:
+a. Click on a cell in the Data Grid View.
+b. The column and row number of the selected cell will be displayed in the provided fields.
 
-8. Remove specified column
+Removing Specified Row:
+a. Select the row you want to remove in the Data Grid View.
+b. Click on the "Remove Row" button.
+c. The selected row will be removed from the Data Grid View.
 
-8. Create new CSV File with specific number of column and rows
+Removing Specified Column:
+a. Select the column you want to remove in the Data Grid View.
+b. Click on the "Remove Column" button.
+c. The selected column will be removed from the Data Grid View.
 
+Creating New CSV File with Specific Number of Columns and Rows:
+a. Click on the "New CSV" button.
+b. Enter the number of columns and rows you want in the provided fields.
+c. Click "Create" and a new CSV file with the specified number of columns and rows will be displayed in the Data Grid View.
 
-
-thats all.
-
-thank youuu
-
+Note: This program only supports CSV files with comma as delimiter. Any other delimiter will cause issues with the data.
 
 
 
