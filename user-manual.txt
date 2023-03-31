@@ -26,7 +26,7 @@ b. Enter the column and row numbers in the provided fields.
 c. Click "Go" and the Data Grid View will scroll to the specified cell.
 
 Determining the Location of Focused Cell:
-a. Click on a cell in the Data Grid View.
+a. Click on a cell in the Data Grid Table.
 b. The column and row number of the selected cell will be displayed in the provided fields.
 
 Removing Specified Row:
