@@ -1,0 +1,13 @@
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\bin\Debug\DataLoadingAndConversion.exe.config
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\bin\Debug\DataLoadingAndConversion.exe
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\bin\Debug\DataLoadingAndConversion.pdb
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\bin\Debug\DataLoadingAndConversion.xml
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.vbproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.Resources.resources
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.vbproj.GenerateResource.cache
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.exe
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.xml
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.pdb
+C:\Users\Ivan\Documents\3RD YEAR FILES\EDP\DataLoadingAndConversion\DataLoadingAndConversion\obj\Debug\DataLoadingAndConversion.Form2.resources
