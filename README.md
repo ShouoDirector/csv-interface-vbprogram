@@ -10,5 +10,5 @@ This program includes Data Loading, Conversion, and Database Backup functions. U
     7.) In addition, the program allows users to delete a specified row or column by inputting the number of the column or row. 
     8.) Finally, users can create a new csv file and ability to specify the number of rows and columns for the new file.
 
-See youtube video below for the demo:
+See youtube video for the demo:
     --->> https://www.youtube.com/watch?v=Bq8pL02LEm4
